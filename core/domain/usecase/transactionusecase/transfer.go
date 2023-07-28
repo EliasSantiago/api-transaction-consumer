@@ -1,7 +1,7 @@
 package transactionusecase
 
 import (
-	"github.com/EliasSantiago/api-contatos/core/dto"
+	"github.com/EliasSantiago/api-transaction-consumer/core/dto"
 )
 
 func (usecase usecase) UpdateBalance(transactionRequest *dto.UpdateTransactionRequest, userID int64) error {

@@ -1,4 +1,4 @@
-module github.com/EliasSantiago/api-contatos
+module github.com/EliasSantiago/api-transaction-consumer
 
 go 1.20
 

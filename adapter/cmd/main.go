@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	"github.com/EliasSantiago/api-contatos/adapter/postgres"
-	"github.com/EliasSantiago/api-contatos/di"
+	"github.com/EliasSantiago/api-transaction-consumer/adapter/postgres"
+	"github.com/EliasSantiago/api-transaction-consumer/di"
 	"github.com/spf13/viper"
 )
 

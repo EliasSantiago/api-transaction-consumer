@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"github.com/EliasSantiago/api-contatos/core/dto"
+	"github.com/EliasSantiago/api-transaction-consumer/core/dto"
 )
 
 type Transaction struct {

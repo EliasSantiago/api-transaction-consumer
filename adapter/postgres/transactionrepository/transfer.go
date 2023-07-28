@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/EliasSantiago/api-contatos/core/dto"
+	"github.com/EliasSantiago/api-transaction-consumer/core/dto"
 )
 
 func (repository repository) UpdateBalance(walletRequest *dto.UpdateBalanceStore, userID int64) error {

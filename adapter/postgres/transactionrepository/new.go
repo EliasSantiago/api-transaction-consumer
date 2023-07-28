@@ -1,8 +1,8 @@
 package transactionrepository
 
 import (
-	"github.com/EliasSantiago/api-contatos/adapter/postgres"
-	"github.com/EliasSantiago/api-contatos/core/domain"
+	"github.com/EliasSantiago/api-transaction-consumer/adapter/postgres"
+	"github.com/EliasSantiago/api-transaction-consumer/core/domain"
 )
 
 type repository struct {

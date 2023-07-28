@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/EliasSantiago/api-contatos/core/dto"
-	"github.com/EliasSantiago/api-contatos/pkg/rabbitmq"
+	"github.com/EliasSantiago/api-transaction-consumer/core/dto"
+	"github.com/EliasSantiago/api-transaction-consumer/pkg/rabbitmq"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 
